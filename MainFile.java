@@ -31,7 +31,7 @@ class GFG {
     // Driver program to test above function 
     public static void main(String[] args) 
     { 
-        int arr[] = {30, 23, 3}; 
+        int arr[] = {30, 3, 3}; 
         int m = arr.length; 
         System.out.println( count(arr, m, 4)); 
           
